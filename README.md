@@ -191,3 +191,19 @@ This framework is designed for easy maintenance and extension:
 - **Error Handling**: Built-in validation and error reporting
 
 For technical support or feature requests, refer to the inline documentation and function docstrings.
+
+## License
+
+This project is provided as-is for educational and business analysis purposes.
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes with appropriate tests
+4. Update documentation as needed
+5. Submit a pull request
+
+---
+
+*Built with Python, Pandas, Plotly, and Jupyter for comprehensive e-commerce analytics*
